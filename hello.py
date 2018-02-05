@@ -4,7 +4,7 @@ def lalala():
 def plus(x, y):
     return x + y
 
-print("Hello, world!")
+print("Hello, whirled!")
 
 def something_else():
     return "some result"

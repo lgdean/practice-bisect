@@ -7,7 +7,7 @@ def plus(x, y):
 print("Hello, whirled!")
 
 def something_else():
-    return "some result"
+    return "some other result"
 
 def still_more():
     print("more")

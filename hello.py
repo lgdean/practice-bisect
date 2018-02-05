@@ -12,3 +12,6 @@ def still_more():
 
 print("Hello, whirled!")
 
+if 2 > 3:
+    print "something surprising has happened"
+

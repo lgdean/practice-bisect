@@ -8,7 +8,7 @@ def something_else():
     return "some other result"
 
 def still_more():
-    print("more")
+    print("still more")
 
 print("Hello, whirled!")
 if 2 > 3:

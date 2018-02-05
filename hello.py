@@ -1,5 +1,5 @@
 def lalala():
-    return 5;
+    return 3;
 
 def plus(x, y):
     return x + y

@@ -1,6 +1,9 @@
 def lalala():
     return 3;
 
+def lalalala():
+    return 4;
+
 def plus(x, y):
     return x + y
 

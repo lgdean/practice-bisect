@@ -2,7 +2,7 @@ def lalala():
     return 5;
 
 def plus(x, y):
-    return x - y
+    return x + y
 
 print("Hello, world!")
 
